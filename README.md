@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @gilanga01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello! I'm a seasoned QA Engineer and certified ISTBQ-CTFL with over 3 years of hands-on experience. Specialized in ensuring software quality from start to finish, I'm well-versed in different methodologies and testing tools to deliver bug-free products. 
 
-<!---
-gilanga01/gilanga01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Technical Skills: 
+🔍 Testing Lifecycle: SDLC, STLC 
+🔍 Methodologies: Agile, Waterfall, V-Model 
+🔍 Documentation: Test Cases, Bug Reports, Test Plans 
+🔍 Tools & Platforms: API Testing, Selenium, Jira, Postman, AWS
+
+🌟 Soft Skills: 
+Communication: Effective at conveying technical issues to non-technical teams. 
+Detail-oriented: Excel at identifying even the most elusive bugs. 
+Teamwork: Collaborative in diverse team settings. 
+Adaptability: Comfortable in rapidly changing environments.
